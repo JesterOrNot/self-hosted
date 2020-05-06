@@ -1,4 +1,4 @@
 gitpod:
   workspaceSizing:
     memoryRequest: 200
-    memoryLimit: 11444
+    memoryLimit: 1144
