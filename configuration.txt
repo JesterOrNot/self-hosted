@@ -1,1 +1,3 @@
 values.yaml
+values/workspace-sizing.yaml
+values/https.yaml
